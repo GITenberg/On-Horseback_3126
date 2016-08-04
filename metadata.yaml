@@ -1,0 +1,33 @@
+_repo: On-Horseback_3126
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+description: ''
+gutenberg_issued: '2004-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Appalachian Region -- Description and travel'
+- !lcsh 'Virginia -- Description and travel'
+- !lcsh 'California -- Description and travel'
+- !lcsh 'North Carolina -- Description and travel'
+- !lcsh 'Warner, Charles Dudley, 1829-1900 -- Travel -- Southern States'
+- !lcsh 'Warner, Charles Dudley, 1829-1900 -- Travel -- Appalachian Region'
+- !lcsh 'Tennessee -- Description and travel'
+- !lcsh 'Mexico -- Description and travel'
+- !lcsh 'Warner, Charles Dudley, 1829-1900 -- Travel -- Mexico'
+- !lcc 'F206'
+- GITenberg
+title: On Horseback
+url: http://www.gutenberg.org/ebooks/3126
